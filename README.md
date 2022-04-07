@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for showing how to use Git and Githun together
+This is a simple website project for showing how to use Git and Githun together. Adding a line for rebasing Example.
 
 ## Introduction
 
