@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Suravi Ghosh -- suravi.ghosh@finastra.com
 
 # THANKS
 
