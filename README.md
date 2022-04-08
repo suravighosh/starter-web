@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for showing how to use Git and Githun together. Adding a line for rebasing Example, then more changes from myfeature branch too.
+This is a simple website project for showing how to use Git and Githun together. We are doing a quick fix.
 
 
 ## Introduction
